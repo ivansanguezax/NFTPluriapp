@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NFTMarketplace</string>
+    <string name="search">search</string>
+    <string name="profile">profile</string>
+    <string name="explore">explore</string>
+    <string name="overview">overview</string>
+    <string name="alerts">alerts</string>
+    <string name="title_activity_nftactivity">NFTActivity</string>
+</resources>
